@@ -162,7 +162,7 @@ IHRD College of Applied Science Kundara
 ## 📫 Connect
 
 - **Email:** [abhishekar3690@gmail.com](mailto:abhishekar3690@gmail.com)
-- **GitHub:** [github.com/abhishekpythoninmakes](https://github.com/abhishekpythoninmakes)
+- **GitHub:** [github.com/abhishek-ai-architect](https://github.com/abhishek-ai-architect)
 - **Location:** Kerala, India
 
 ---
